@@ -1,0 +1,23 @@
+operator in  python
+______________________
+
+
+1.Arithmentic operator
+2.assingment operator
+3.Comparison operator
+4.logical operator
+5.Bitwise operator
+6.Membership operator
+
+
+1.Arithmentic operator
+______________________________________
+  operator     Name            Example
+______________________________________
+ +           Addition          x+y
+ -           Subtraction       x-y
+ *           Multiplication    x*y
+ /           Division          x/y
+ %           Modulus           x%y
+ **          Exponent          x**y
+ //         Floor Division    x//y
