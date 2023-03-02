@@ -1,0 +1,44 @@
+operator in  python
+______________________
+
+
+1.Arithmentic operator
+2.assingment operator
+3.Comparison operator
+4.logical operator
+5.Bitwise operator
+6.Membership operator
+
+
+1.Arithmentic operator
+______________________________________
+  operator     Name            Example
+______________________________________
+ +           Addition          x+y
+ -           Subtraction       x-y
+ *           Multiplication    x*y
+ /           Division          x/y
+ %           Modulus           x%y
+ **          Exponent          x**y
+ //         Floor Division    x//y
+
+
+ 2.Assingment operator
+ ______________________________________
+ operator     Example         Same as.
+ =            x=5             x=5
+ +=           x+=5            x=x+5
+ -=           x-=5            x=x-5
+ ______________________________________ 
+
+3.Comparison operator
+ ____________________________________________
+  operator     Name                   Example
+______________________________________________
+==            Equal                       x==y
+!=            Not Equal                   x!=y
+>             Greater than                x>y
+<             Less than                   x<y
+>=            Greater than and Equal to   x>=y
+<=            Less than and Equal to      x<=y
+    
