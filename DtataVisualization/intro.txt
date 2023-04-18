@@ -1,0 +1,30 @@
+****************Data visualization*****************
+---------------------------------------------------
+  
+Data visualization is the graphical representation of Data
+      Visual elements like Charts,Graphs,map(data visualization tool) provide and acessible way to see and understand and trends,outliers & pattern in data
+
+      (a)Matplotlib
+      (b)Seaborn
+      (c)ggplot
+
+
+      (a) Matplotlib-It is a ploating libarary for the python programming language
+          It is python libarary for data visualization
+
+      Note: 2D and 3D ploating python libarary**
+
+      Matplotlib libarary Graph are following
+      1.linear plot
+      2.Scatter plot
+      3.Bar plot 
+      4.Step plot
+      5.Stem plot
+
+    How to Download Matplotlib
+    -> pip install Matplotlib
+
+    Importing : Matplotlib
+          Import matplotlib.pyplot as plt 
+                  or 
+          from matplotlib Import pyplot as plt
