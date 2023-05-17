@@ -1,0 +1,44 @@
+*****************File Handling**********
+----------------------------------------
+File Handling:-file is the name of location on disk to store related information
+                It is used to paramanet store data in memeory
+      There are three operation in File Handling
+      1.open a file
+      2.read/write a file
+      3.close a file
+
+      python provide inbuild function for creating , writing 
+      There are two type of file that can be Handle in python 
+        1.text file
+        2.binary file
+
+      In python there is no need for importing external libarary for read and write file
+
+create a text file in python
+-----------------------------
+Syntax- 
+        file-objext=open("filename","mode")
+
+  Example-
+          f=open("demo.txt",'w')
+          f.write('my name is belal')
+          f.close()
+
+
+***file access mode***
+--------------------
+  It refers how the file will be use once open.These mode define the location of the file Handle in the file
+
+
+File Handle is like cursor which define from where the data has to be read and return in the file.
+
+There are six file access mode in the python
+    1.Read Only('r'):-Open text file for reading
+    2.Read and Write ('r+'):Open text file for reading and writing
+    3.write only('w'):-Open text file for writing only
+    4.write and read('w+'):- Open text file reading and writing
+    5.Append only('a'):-Open text file for update existing file only
+    6.Appended and read('a+'):-
+
+Question 
+1.Distinguish between different files mode exaplain each with the Example
