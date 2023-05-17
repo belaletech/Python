@@ -1,0 +1,1 @@
+filepter=open("C:\Users\belal\GU PYTHON\Python\FileHandling/belal.txt","w")
