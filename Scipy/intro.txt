@@ -1,0 +1,20 @@
+******************Scipy**************
+--------------------------------------
+1.Scipy is a scientific computation libarary that uses NumPy undereath.
+2.Scipy stand for scientific python
+3.It provides more utility function for optimization,stats and signal processing
+
+4.Like NumPy,SciPy is open source so we can use it freely
+5.Scipy py was created by numpy creater Travis Olliphant.
+
+
+*********Constants**********
+ a.Import SciPy
+ b.Once SciPy is installed,Import the SciPy module(s)
+
+ from SciPy Import Constants 
+      print(Constants.pi)
+      *******************
+  *The units are placed under categories:
+      1.Metric
+      2.
