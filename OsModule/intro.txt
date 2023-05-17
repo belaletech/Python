@@ -1,0 +1,17 @@
+******Python OS Module******
+---------------------------
+python OS Module provides the facility to establish the intraction between user and operating system
+
+It offers many usefull os function that are used to perform os based task and get related information about operating system.
+1.OS.name-this function provide name of the operating system Module that it imports
+    'posix','nt','os2','ce','java','riscos'
+
+
+import OS
+print(os.name)
+
+
+2.OS.mkdir()-This function used to create new directory
+3.OS.getcwd()-it return working directory 
+4.os.chdir()-The os module provide the chdir function to change the current working directory.
+5.os.rmdir()-The rmdir function to remove the specified directory and absulute and realted path
