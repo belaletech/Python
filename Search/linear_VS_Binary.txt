@@ -1,0 +1,36 @@
+
+********linear Search vs Binary Search*********
+0   1   2   3   4   5   6   7   8   9  10    11   12    13    14    15    16   17   18    19    20    21   22   23  
+A   | B |C  | D  | E |F  |G  |H  |I  |J  |K   |L   |M    |  N  | O   |P    |Q    |R   |S   |   T  |  U | V   | W  |X|
+
+
+**Linear Seach**
+-----------------
+   1.Scans one time at a time
+   2.does not at jump any item
+   3.Time taken to search elements to proportional to number of elements
+   4.Element by element search
+   5.Complexity Big(n)
+
+**Binary Search***
+------------------
+    1.Check weather the middle element is greater or smaller than the number in question
+    2.Search don't to half of list
+    3.Time Complexity is Big(logn)
+
+
+Difference Between Linear Search and Binary Search
+---------------------------------------------------
+Linear Seach
+------------
+    1.Sorting is not Required
+    2.Sequential Acess
+    3.Complexity Big(n)
+    4.Equality Comparison
+
+Binary Search
+-------------
+    1.Sorting is Required
+    2.Random Acess
+    3.Time Complexity is Big(logn)
+    4.Ordering Comparison
