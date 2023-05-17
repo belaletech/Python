@@ -1,0 +1,36 @@
+******Pandas******
+-------------------
+Pandas is an open-source library that is made mainly for working with relational or labeled data both easily and intuitively. 
+It provides various data structures and operations for manipulating numerical data and time series.
+This library is built on top of the NumPy library. Pandas is fast and it has high performance & productivity for users.
+
+Advantages 
+-----------
+  (i)Fast and efficient for manipulating and analyzing data.
+  (ii)Data from different file objects can be loaded.
+  (iii)Easy handling of missing data (represented as NaN) in floating point as well as non-floating point data
+  (iv)Size mutability: columns can be inserted and deleted from DataFrame and higher dimensional objects
+  (v)Data set merging and joining.
+  (vi)Flexible reshaping and pivoting of data sets
+  (vii)Provides time-series functionality.
+  (viii)Powerful group by functionality for performing split-apply-combine operations on data sets.
+
+Pandas generally provide two data structures for manipulating data, They are: 
+  1.  Series
+  2.  DataFrame
+  3.  panel
+
+1. Series :- It is defined as one dimensional Array that is capable of storing various data types.
+2.Data frame=It is two dimensional Size mutable, potentialy, hetrogeneous tebular data structures with labeled access(Rows and columns)
+                          In other words Data is align in tebular fashion(Rows and columns)
+                          A pandas data frame created by loading  the data set from existing (scv file,Excel file)
+
+          pd.DataFrame()
+
+          
+
+
+
+
+import pandas as pd
+l=[1,2,3,4,5,6]
